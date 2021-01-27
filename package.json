@@ -19,5 +19,8 @@
   "homepage": "https://url.msich.dev",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
+  },
+  "bin": {
+    "shorten": "cli.js"
   }
 }
