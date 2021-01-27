@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Personal URL shortener built with Netlify, inspired by Kent C. Dobbs",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msichterman/url-shortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msichterman/url-shortener/issues"
+  },
+  "homepage": "https://github.com/msichterman/url-shortener#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
