@@ -1,7 +1,6 @@
 {
   "name": "url-shortener",
   "version": "1.0.0",
-  "baseUrl": "https://url.msich.dev",
   "description": "Personal URL shortener built with Netlify, inspired by Kent C. Dobbs",
   "main": "index.js",
   "scripts": {
@@ -17,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/msichterman/url-shortener/issues"
   },
-  "homepage": "https://github.com/msichterman/url-shortener#readme",
+  "homepage": "https://url.msich.dev",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }
