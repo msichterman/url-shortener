@@ -7,7 +7,7 @@
 A personal URL shortener built with Netlify, inspired by Kent C. Dobbs.
 
 ## Motivation
-URL shorteners currently on the market for custom domains are insanely expensive. Months ago, I came accross Kent C. Dobbs' [netlify-shortener](https://github.com/kentcdodds/netlify-shortener) which is an insanely simple and useful implementation of a personal URL shortener with the ability to support a custom domain. Following his lead, I was able to get a custom URL shortener deployed in minutes and a bash script to create/generate new shortened URLS in only a few more minutes. Thank you Kent C. Dobbs!
+URL shorteners currently on the market for custom domains are insanely expensive. Months ago, I came across Kent C. Dobbs' [netlify-shortener](https://github.com/kentcdodds/netlify-shortener) which is an insanely simple and useful implementation of a personal URL shortener with the ability to support a custom domain. Following his lead, I was able to get a custom URL shortener deployed in minutes and a bash script to create/generate new shortened URLS in only a few more minutes. Thank you Kent C. Dobbs!
 
 ## Technologies
 * Netlify
